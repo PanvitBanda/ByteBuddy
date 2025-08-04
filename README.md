@@ -77,4 +77,4 @@ https://www.loom.com/share/be3f5c7f89a7496283e1739cdf9e61cd?sid=c564bdd1-7c32-44
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](./BudgetBuddy/LICENSE).
+This project is open-source and available under the [MIT License](./ByteBuddy/LICENSE).
